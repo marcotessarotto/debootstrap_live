@@ -1,5 +1,6 @@
 #!/bin/sh
-KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.15.tar.xz
+KERNEL_SOURCE_URL=https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.19.186.tar.xz
+
 
 
 # Grab everything after the '=' character.
